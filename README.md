@@ -2,8 +2,8 @@
 
 A mini e-commerce application built with Rails 6.1 for purposes of teaching Rails by example.
 
-!["Home page"]()
-!["Products"]()
+!["Home page"](https://github.com/MeowPup/jungle-rails/blob/master/docs/titlepage.png?raw=true)
+!["Products"](https://github.com/MeowPup/jungle-rails/blob/master/docs/productpage.png?raw=true)
 ## Setup
 
 1. Run `bundle install` to install dependencies
